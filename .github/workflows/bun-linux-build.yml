@@ -1,6 +1,6 @@
 name: CI
 
-permissions: write-all
+# permissions: write-all
 
 on:
   pull_request:
